@@ -225,8 +225,7 @@ void Error_Handler(void)
 AGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  
  
- ## CIRCUIT DI:
- 
+
  
  
  ![naveen pmc 4](https://user-images.githubusercontent.com/118707204/235294928-140afda5-75d9-410e-a936-c64381513eb3.png)
